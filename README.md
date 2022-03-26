@@ -1,9 +1,7 @@
 
 ## Here is my solution in making the QR code
 
-![](https://ibb.co/4fK0zcR)
-
-Live Site URL: [](https://paumnc.github.io/project1_simpleQRcode/)
+[Live Site URL](https://paumnc.github.io/project1_simpleQRcode/)
 
 ## What I learned
 
